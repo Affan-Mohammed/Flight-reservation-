@@ -1,11 +1,6 @@
-![icon_logo](https://user-images.githubusercontent.com/56977388/178157849-38d2f2c3-1c93-4dac-9577-57f3a752e2cd.png)
-
-
-
-A flight booking Django application written in Python, HTML, CSS & Javascript.
-This is the capstone project for CS50's Web Programming with Python and Javascript.
-
-
+ This project was made for my CIS 201 web design final assignmennt.
+ 
+ 
 <img alt="flight" src="https://user-images.githubusercontent.com/56977388/178156598-69491e88-bd9a-42dc-88f3-afeb02d7161e.png">
 
 
@@ -47,12 +42,6 @@ This is the capstone project for CS50's Web Programming with Python and Javascri
   - `requirements.txt` - This file contains all contains all the python packages that needs to be installed to run this web application.
   - `manage.py` - This file is used basically as a command-line utility and for deploying, debugging, or running our web application.
 
-### Justification
-
-1. Mobile responsive webpages.
-2. More complex models.
-3. More interatactive because webpages use ajax functionality (eg., fetch) written in javascript.
-4. Converts html template to downloadable pdf.
 
 ### Installation
 
